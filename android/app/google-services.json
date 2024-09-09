@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764678253519",
+    "project_id": "ngdemo14-efa3c",
+    "storage_bucket": "ngdemo14-efa3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764678253519:android:47f987e56d53d2ebc000ba",
+        "android_client_info": {
+          "package_name": "com.nextgen.ngdemo14"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdVSVn-qywgqDNIRBfPnU77PREUSBqzvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
